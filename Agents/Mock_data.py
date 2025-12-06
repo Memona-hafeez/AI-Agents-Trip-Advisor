@@ -35,3 +35,21 @@ mock_costs = {
         "transport": 500
     }
 }
+
+mock_phrasebook = {
+    "hello": {"urdu": "سلام", "punjabi": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ"},
+    "thank you": {"urdu": "شکریہ", "punjabi": "ਧੰਨਵਾਦ"},
+    "how much?": {"urdu": "کتنے کا ہے؟", "punjabi": "ਕਿੰਨਾ ਹੋਇਆ?"},
+    "where is the hotel?": {"urdu": "ہوٹل کہاں ہے؟", "punjabi": "ਹੋਟਲ ਕਿੱਥੇ ਹੈ?"},
+    "good morning": {"urdu": "صبح بخیر", "punjabi": "ਸ਼ੁਭ ਸਵੇਰ"},
+    "good night": {"urdu": "شب بخیر", "punjabi": "ਸ਼ੁਭ ਰਾਤਰੀ"},
+    "please": {"urdu": "براہ مہربانی", "punjabi": "ਕਿਰਪਾ ਕਰਕੇ"},
+    "sorry": {"urdu": "معاف کیجیے", "punjabi": "ਮਾਫ਼ ਕਰਨਾ"},
+    "yes": {"urdu": "جی ہاں", "punjabi": "ਹਾਂ"},
+    "no": {"urdu": "نہیں", "punjabi": "ਨਹੀਂ"},
+    "help!": {"urdu": "مدد کریں!", "punjabi": "ਮਦਦ ਕਰੋ!"},
+    "i need a doctor": {"urdu": "مجھے ڈاکٹر چاہیے", "punjabi": "ਮੈਨੂੰ ਡਾਕਟਰ ਚਾਹੀਦਾ ਹੈ"},
+    "where is the bathroom?": {"urdu": "بیت الخلا کہاں ہے؟", "punjabi": "ਬਾਥਰੂਮ ਕਿੱਥੇ ਹੈ?"},
+    "can you help me?": {"urdu": "کیا آپ میری مدد کر سکتے ہیں؟", "punjabi": "ਕੀ ਤੁਸੀਂ ਮੇਰੀ ਮਦਦ ਕਰ ਸਕਦੇ ਹੋ?"},
+    "i don't understand": {"urdu": "مجھے سمجھ نہیں آئی", "punjabi": "ਮੈਨੂੰ ਸਮਝ ਨਹੀਂ ਆਈ"}
+}

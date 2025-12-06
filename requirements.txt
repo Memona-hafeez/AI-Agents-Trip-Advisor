@@ -1,6 +1,35 @@
-agno                   
-grpcio-status          
-langchain-community   
-langchain-google-genai 
-fastapi 
+# Core AI/ML Framework
+agno
+grpcio-status
+
+# LangChain Components
+langchain-community
+langchain-google-genai
+
+# Web Framework
+fastapi
 uvicorn
+
+# Frontend Framework
+streamlit
+
+# Environment and Configuration
+python-dotenv
+
+# HTTP Requests
+requests
+
+# Wikipedia API
+wikipedia
+
+# Translation and NLP
+transformers
+torch
+sentence-transformers
+
+# Vector Database
+chromadb
+
+# Additional Dependencies
+numpy
+pandas
